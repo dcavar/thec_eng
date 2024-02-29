@@ -8,10 +8,20 @@ Narrative
 
 
 
-## Maintainer
+## Maintainers
+
 - Emily Reed
+- Billy Dickson
 - Muhammed S Abdo
 - Tanmayi Balla
-- Van H.
-- Damir Cavar
+- Van Holtenrichs
+- [Damir Cavar]
 
+## Cite
+
+If you use this data, please cite:
+
+Damir Cavar, Ludovic V. Mompelat, Muhammad S. Abdo (2024) The Typology of Ellipsis: A Corpus for Linguistic Analysis and Machine Learning Applications. Paper to be presented at the ACL Special Interest Group on Typology (SIGTYP) 2024, colocated with the 18th Conference of the European Chapter of the Association for Computational Linguistics, St Julian’s, Malta (March, 2024). (full paper)
+
+
+[Damir Cavar]: http://damir.cavar.me/ "Damir Cavar"

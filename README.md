@@ -16,7 +16,7 @@ Consult the [data format specification](https://nlp-lab.org/ellipsis/data_format
 - Billy Dickson
 - Muhammed S Abdo
 - Tanmayi Balla
-- Van Holtenrichs
+- Van Holthenrichs
 - [Damir Cavar]
 
 
